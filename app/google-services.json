@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "156373566749",
+    "firebase_url": "https://trial-6fad7.firebaseio.com",
+    "project_id": "trial-6fad7",
+    "storage_bucket": "trial-6fad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156373566749:android:077d6cfbd0f348f4",
+        "android_client_info": {
+          "package_name": "com.example.spiros.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156373566749-a0l8mqicrchs5r76cr7kaun3878s6e2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spiros.myapplication",
+            "certificate_hash": "384a7dbe3b038fa993ef58be3711616bd7184bc8"
+          }
+        },
+        {
+          "client_id": "156373566749-duop59p57jtjr1oa5deetravn6q9f3fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spiros.myapplication",
+            "certificate_hash": "cfecce2c66cb1cc11329fc5092a7ef718e9dc58d"
+          }
+        },
+        {
+          "client_id": "156373566749-qpqos5i4gs7j6qn7dptd69qt3ep4kud8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spiros.myapplication",
+            "certificate_hash": "619240948003dde7f324368e0879eeb4ab3d425a"
+          }
+        },
+        {
+          "client_id": "156373566749-83cv4erfujvto7gc643nrl1old7l2jsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-k5557s---smZVU6dtg6QBn8ojcGaVRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156373566749-83cv4erfujvto7gc643nrl1old7l2jsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
