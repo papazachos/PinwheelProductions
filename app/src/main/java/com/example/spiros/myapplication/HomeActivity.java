@@ -27,6 +27,7 @@ public class HomeActivity extends AppCompatActivity {
         createadd = (Button)findViewById(R.id.createadd);
         search = (Button)findViewById(R.id.search);
         search.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View v) {
 
@@ -47,7 +48,7 @@ public class HomeActivity extends AppCompatActivity {
     private void onSearchClick()
     {
 
-        Intent a = new Intent(HomeActivity.this,Search.class);
+        Intent a = new Intent(HomeActivity.this,PinwheelMap.class);
         startActivity(a);
 
     }
@@ -60,5 +61,6 @@ public class HomeActivity extends AppCompatActivity {
 
 
     }
+
 
 }

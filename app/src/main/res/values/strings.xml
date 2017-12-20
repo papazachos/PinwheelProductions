@@ -11,4 +11,10 @@
         <item>Store</item>
         <item>Holding</item>
     </array>
+    <string name="title_activity_pinwheel_map">Map</string>
+    <string name="rent">Rent</string>
+    <string name="search">Search</string>
+    <string name="title_activity_map_loc">Map</string>
+    <string name="distance">Distance</string>
+
 </resources>
